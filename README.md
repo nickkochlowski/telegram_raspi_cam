@@ -1,2 +1,2 @@
-# Telegram_Raspi_Cam
+# telegram_raspi_cam
 Home security camera system managed through Telegram Bot API
